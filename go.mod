@@ -1,3 +1,3 @@
-module github/vvfock3r/my-test-repository
+module github/vvfock3r/test
 
 go 1.18

@@ -1,4 +1,4 @@
-package my_test_repository
+package test
 
 func Add(x, y int) int {
 	return x + y
