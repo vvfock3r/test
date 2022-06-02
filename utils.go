@@ -1,10 +1,7 @@
 package test
 
 import (
-	"fmt"
-	"github.com/gin-gonic/gin"
+	"fmt"	
 )
 
-func ShowGinVersion() {
-	fmt.Println(gin.Version)
-}
+Version = "v1.0.9"
