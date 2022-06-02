@@ -1,3 +1,3 @@
-module github.com/vvfock3r/testabc
+module github.com/vvfock3r/test
 
 go 1.18
